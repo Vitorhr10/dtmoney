@@ -6,8 +6,8 @@ This project is to manage your finances.
 ## How to use
 
 1. Clone this repository: `git clone https://github.com/Vitorhr10/dtmoney.git`
-2. Install dependencies: `npm install`
-3. Run the application: `npm start`
+2. Install dependencies: `npm install or yarn`
+3. Run the application: `npm start or yarn start`
 
 ## How to contribute
 
